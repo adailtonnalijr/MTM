@@ -14,7 +14,7 @@ I started testing the tool by first doing the bare minimum and seeing the result
 ### Use Case 1: Engineering Startup Website
 - **Context**: Creating a more engineering focused website
 - **Process**: I gave very long descriptions of what I wanted, and let the tool make template and color scheme decisions. It automatically detected the fire idea, and it input images that made sense with the product
-- **Output**: [What it produced - include screenshots]
+- **Output**: 
 - **Time Saved**: [Quantify efficiency gain]
 - **Quality Assessment**: Very Good
   
