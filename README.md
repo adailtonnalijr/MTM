@@ -28,9 +28,9 @@ I started testing the tool by first doing the bare minimum and seeing the result
 
 ### Use Case 3: Break Case
 - **Context**: I was trying to test the limitations of the algorithm and see what it would happen if I put invalid inputs. 
-- **Process**: I did not reply to the questions correctly, I just submitted symbols, letters, and words instead of descriptions of what I was trying to acocomplish.
+- **Process**: I did not reply to the questions correctly, I just replied to the AI with the questions it gave me just to see what it would happen. Wuold it catch it, what would it say ? That is what I was trying to figure it out.
 - [Inputs](https://drive.google.com/drive/folders/1TCQdefZnUyQ1EJyje-mDJkde8OIP-L12?usp=share_link)
-- **Output**: [Broken Website](https://drive.google.com/file/d/1JPYxHV7J-TmMfgHCBWdNj0lF4AEuyKzQ/view?usp=sharing)
+- **Output**: [Broken Website](https://drive.google.com/file/d/19CUryEIP1KuVFqKfGI_0755JMB7c0_Vj/view?usp=sharing)
 - **Time Saved**: N/A
 - **Quality Assessment**: Bad. It created a website based on no inputs, which begs the question of how good is it really analyzing the inputs when I'm trying to build something for real.
 
