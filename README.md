@@ -38,7 +38,7 @@ I started testing the tool by first doing the bare minimum and seeing the result
 ### Failure 1: The AI does not filter out any input 
 - **What I Tried**: I tried breaking the machine by using it the worst way possible. The website only allowed me to use text, to I tried the worst text inputs possible. The website simply guessed what I wanted. 
 - **Why It Failed**: It created the website based on whatever it interpreted.
-- **Screenshots**: [Evidence of failure]
+- **Screenshots**: [Evidence of failure](https://drive.google.com/drive/folders/1Tti8pRttDCr05eFujE2ASOboqMb4Q9uO?usp=sharing)
 - **Lesson Learned**: The program is very badly written, maybe because they never expected people to baheve this way.
 
 
