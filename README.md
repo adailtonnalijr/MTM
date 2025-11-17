@@ -57,4 +57,4 @@ Website building has been automated, and there's no need for a specialist to bui
 **My Verdict**: This tool is very useful to create websites fast and easy. If you just need a website to show your product and be professional then go ahead, but I wouldn't use it for anything complex.
 
 ## Evidence Gallery
-[Include 3-5 annotated screenshots showing the tool in action]
+Evidence is embedde in the Use Cases and Failure & Limitation Sections
