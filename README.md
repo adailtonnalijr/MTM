@@ -44,11 +44,11 @@ I started testing the tool by first doing the bare minimum and seeing the result
 
 
 ## Skill Code Analysis
-**Challenge**
+- **Challenge**
 Zero challenge. Most users will use this tool only once during set up, and the point of it is to be as straight forward as possible.
-**Complexity**
+- **Complexity**
 The tool eliminates every nuance possible. It already asks you questions about the business to choose how to build the weh=bsite and features, leaving no room for questioning or margin for interpretation. It's a very guided experience, with clear formatted questions from the AI, different from other "sandbox" tools.
-**Connection**
+- **Connection**
 Website building has been automated, and there's no need for a specialist to build your website. Of course it's nice to have someone that has used the tool before and knows what's needed ans what's not, but technically speacking no expert is needed.
 
 ## Bottom Line
