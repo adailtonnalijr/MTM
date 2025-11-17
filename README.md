@@ -52,7 +52,7 @@ I had never created a website before, so I was curious to see how good of a job 
 ## Bottom Line
 - **Who Should Use This**: Anyone trying to build a website.
 - **Who Should Avoid This**: Big corporations that require large scale processing and integration with other databases and programs.
-- **Hidden Costs**: Zero.
+- **Hidden Costs**: Very little. Once you build your first website and then go into the tools and learn what the website can do, then it's very stratightforward what you need to ask the Ai to do. You can describe very visually, not technical at all, making it very accessible for people that have simply visited many websites.
 - **My Verdict**: This tool is very useful to create websites fast and easy. If you just need a website to show your product and be professional then go ahead, but I wouldn't use it for anything complex.
 
 ## Evidence Gallery
