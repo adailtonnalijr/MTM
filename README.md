@@ -14,7 +14,7 @@ I started testing the tool by first doing the bare minimum and seeing the result
 ### Use Case 1: Engineering Startup Website
 - **Context**: Creating a more engineering focused website
 - **Process**: I gave very long descriptions of what I wanted, and let the tool make template and color scheme decisions. It automatically detected the fire idea, and it input images that made sense with the product
-[Inputs](https://drive.google.com/drive/folders/1YlPm8mZjLtT7rYFQAGr9s3VQjr7AD3wV?usp=share_link)
+- [Inputs](https://drive.google.com/drive/folders/1YlPm8mZjLtT7rYFQAGr9s3VQjr7AD3wV?usp=share_link)
 - **Output**: [Website](https://drive.google.com/file/d/1mmqbOGxnxa8OQZXabpUERjFdT0-Zxpgs/view?usp=sharing)
 - **Time Saved**: [Quantify efficiency gain]
 - **Quality Assessment**: Very Good
@@ -29,7 +29,8 @@ I started testing the tool by first doing the bare minimum and seeing the result
 ### Use Case 3: Break Case
 - **Context**: I was trying to test the limitations of the algorithm and see what it would happen if I put invalid inputs. 
 - **Process**: I did not reply to the questions correctly, I just submitted symbols, letters, and words instead of descriptions of what I was trying to acocomplish.
-- **Output**: [What it produced - include screenshots]
+- [Inputs](https://drive.google.com/drive/folders/1TCQdefZnUyQ1EJyje-mDJkde8OIP-L12?usp=share_link)
+- **Output**: [Broken Website](https://drive.google.com/file/d/1JPYxHV7J-TmMfgHCBWdNj0lF4AEuyKzQ/view?usp=sharing)
 - **Time Saved**: N/A
 - **Quality Assessment**: Bad. It created a website based on no inputs, which begs the question of how good is it really analyzing the inputs when I'm trying to build something for real.
 
