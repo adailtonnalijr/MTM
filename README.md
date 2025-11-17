@@ -3,7 +3,7 @@
 
 ## Tool Overview
 - **Provider**: Wix
-- **Pricing**: Free to use, paid to upload the website, get domains, and other features. 
+- **Pricing**: Free to use; must pay to get domains, use premium features/APIs, and other features. 
 - **Core Functionality**: Help users create websites from ideas, translating a paragraph into a working website.
 - **Link**: www.wix.com
 
@@ -12,18 +12,19 @@ I started testing the tool by first doing the bare minimum and seeing the result
 
 ## Career-Relevant Use Cases
 ### Use Case 1: Engineering Startup Website
-- **Context**: Creating a more engineering focused website
-- **Process**: I gave very long descriptions of what I wanted, and let the tool make template and color scheme decisions. It automatically detected the fire idea, and it input images that made sense with the product
+- **Context**: Creating a more engineering focused website.
+- **Process**: I gave very long descriptions of what I wanted, and let the tool make template and color scheme decisions. It automatically detected the fire idea, and it input images that made sense with the product.
 - [Inputs](https://drive.google.com/drive/folders/1YlPm8mZjLtT7rYFQAGr9s3VQjr7AD3wV?usp=share_link)
 - **Output**: [Website](https://drive.google.com/file/d/1mmqbOGxnxa8OQZXabpUERjFdT0-Zxpgs/view?usp=sharing)
-- **Time Saved**: [Quantify efficiency gain]
+- **Time Saved**: N/A
 - **Quality Assessment**: Very Good
   
 ### Use Case 2: Creating a clothing website similar to Nike's 
-- **Context**: [What you were trying to accomplish]
-- **Process**: [How you used the tool]
-- **Output**: [What it produced - include screenshots]
-- **Time Saved**: [Quantify efficiency gain]
+- **Context**: Create a professional website that already has filters, pricing models, separate pages for each product, a cohesive color scheme with the company    
+- **Process**: I gave as much description as I could about my product, asked for some features to be on the website (filters, being able to purchase, having different sections, etc.), and asked for a specific color scheme.
+- [Inputs](https://drive.google.com/drive/folders/156Xh8PVq27ejUnzr8lUpDvH377hSNYdP?usp=sharing)
+- **Output**: [Clothing Website](https://drive.google.com/file/d/104epz8Bwjlq5Zl-5iKRP9lqdcnmUFb3R/view?usp=share_link)
+- **Time Saved**: N/A
 - **Quality Assessment**: Very Good
 
 ### Use Case 3: Break Case
@@ -44,12 +45,9 @@ I started testing the tool by first doing the bare minimum and seeing the result
 
 
 ## Skill Code Analysis
-- **Challenge**:
-Zero challenge. Most users will use this tool only once during set up, and the point of it is to be as straight forward as possible.
-- **Complexity**:
-The tool eliminates every nuance possible. It already asks you questions about the business to choose how to build the website and features, leaving no room for questioning or margin for interpretation. It's a very guided experience, with clear formatted questions from the AI, different from other "sandbox" tools.
-- **Connection**:
-Website building has been automated, and there's no need for a specialist to build your website. Of course it's nice to have someone that has used the tool before and knows what's needed ans what's not, but technically speacking no expert is needed.
+- **Challenge**: Zero challenge. Most users will use this tool only once during set up, and the point of it is to be as straight forward as possible.
+- **Complexity**: The tool eliminates every nuance possible. It already asks you questions about the business to choose how to build the website and features, leaving no room for questioning or margin for interpretation. It's a very guided experience, with clear formatted questions from the AI, different from other "sandbox" tools.
+- **Connection**: Website building has been automated, and there's no need for a specialist to build your website. Of course it's nice to have someone that has used the tool before and knows what's needed ans what's not, but technically speacking no expert is needed.
 
 ## Bottom Line
 **Who Should Use This**: Anyone trying to build a website.
@@ -58,4 +56,4 @@ Website building has been automated, and there's no need for a specialist to bui
 **My Verdict**: This tool is very useful to create websites fast and easy. If you just need a website to show your product and be professional then go ahead, but I wouldn't use it for anything complex.
 
 ## Evidence Gallery
-Evidence is embedde in the Use Cases and Failure & Limitation Sections
+Evidence is embedde in the 'Use Cases' and 'Failure & Limitation Sections'.
