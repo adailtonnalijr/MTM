@@ -8,7 +8,7 @@
 - **Link**: www.wix.com
 
 ## My Testing Methodology
-I started testing the tool by first doing the bare minimum and seeing the results, then I gradually started applying what I wanted to see what the difference was. I was curious to see how good the AI was, and how much it could do right of the bat vs just choosing a template. 
+I had never created a website before, so I was curious to see how good of a job would the platform do compared to a big corporation, and what kind of information would the platform ask me to determine what would fit my needs. During the process, I wanted to understand how much would the AI fill in the blanks and determine what I wanted. So, I first tested the tools with simple answers, then after a while I saw what the tool as capable of and started givig our better prompts according to what the tool offered. I gradually described more what I wanted with better prompts, and got very good and accurate results after understanding what the AI wanted to know.
 
 ## Career-Relevant Use Cases
 ### Use Case 1: Engineering Startup Website
@@ -50,10 +50,10 @@ I started testing the tool by first doing the bare minimum and seeing the result
 - **Connection**: Website building has been automated, and there's no need for a specialist to build your website. Of course it's nice to have someone that has used the tool before and knows what's needed ans what's not, but technically speacking no expert is needed.
 
 ## Bottom Line
-**Who Should Use This**: Anyone trying to build a website.
-**Who Should Avoid This**: Big corporations that require large scale processing and integration with other databases and programs.
-**Hidden Costs**: Zero.
-**My Verdict**: This tool is very useful to create websites fast and easy. If you just need a website to show your product and be professional then go ahead, but I wouldn't use it for anything complex.
+- **Who Should Use This**: Anyone trying to build a website.
+- **Who Should Avoid This**: Big corporations that require large scale processing and integration with other databases and programs.
+- **Hidden Costs**: Zero.
+- **My Verdict**: This tool is very useful to create websites fast and easy. If you just need a website to show your product and be professional then go ahead, but I wouldn't use it for anything complex.
 
 ## Evidence Gallery
 Evidence is embedde in the 'Use Cases' and 'Failure & Limitation Sections'.
